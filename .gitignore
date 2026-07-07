@@ -1,0 +1,5 @@
+#Don't want to track these files
+
+__pycache__/
+.venv/
+
